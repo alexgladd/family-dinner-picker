@@ -28,7 +28,7 @@ At some point, I may wish to update the App. The app is currently available on A
 
 I may update these Terms and Conditions from time to time. Thus, you are advised to review this page periodically for any changes. I will notify you of any changes by posting the new Terms and Conditions on this page.
 
-These terms and conditions are effective as of **06 April 2021**
+These terms and conditions are effective as of **06 April 2021**.
 
 ## Contact
 
