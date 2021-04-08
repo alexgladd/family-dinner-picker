@@ -1,9 +1,17 @@
 # Family Dinner Picker
 
-*A fun way to mix up your boring dinner routine!*
+<p align="center" width="100%">
+  <img width="50%" alt="Family Dinner Picker banner" src="img/banner.png">
+</p>
 
 This repository contains the public information for the Family Dinner Picker app available for
 Android and iOS on Google Play and the Apple App Store, respectively.
+
+<p align="center" width="100%">
+  <img height="512 alt="Family Dinner Picker on iOS" src="img/ios.png">
+  &nbsp;
+  <img height="512" alt="Family Dinner Picker on Android" src="img/android.png">
+</p>
 
 ## About
 
