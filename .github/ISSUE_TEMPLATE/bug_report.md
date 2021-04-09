@@ -4,7 +4,6 @@ about: Create a bug report to help me improve the app
 title: "[BUG] Should(n't)..."
 labels: bug, new
 assignees: ''
-
 ---
 
 **Describe the bug**
@@ -26,7 +25,7 @@ If applicable, add screenshots to help explain your problem.
 **Smartphone (please complete the following information):**
  - Device: [e.g. iPhone6]
  - OS: [e.g. iOS8.1]
- - Version [e.g. 22]
+ - App version: [e.g. 1.2.3-4]
 
 **Additional context**
 Add any other context about the problem here.
