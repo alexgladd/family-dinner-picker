@@ -5,9 +5,9 @@
 Support for the Family Dinner Picker app versions is listed below. If you are
 using an unsupported version, please upgrade to a supported version.
 
-| Version | Supported          |
-| ------- | ------------------ |
-| 1.x.x   | :check_mark: |
+| Version | Supported |
+| ------- | --------- |
+| 1.x.x   | ✅ |
 
 ## Reporting a Vulnerability
 
