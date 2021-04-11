@@ -7,7 +7,7 @@ using an unsupported version, please upgrade to a supported version.
 
 | Version | Supported          |
 | ------- | ------------------ |
-| 1.x.x   | :green_check_mark: |
+| 1.x.x   | :check_mark: |
 
 ## Reporting a Vulnerability
 
